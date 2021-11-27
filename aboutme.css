@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color:#212020;
+    color: aliceblue;
+}
+#bio {
+    font-family: 'poppins', sans-serif;
+    padding: 50px;
+    text-align: center;}
+.container{  
+ text-align: center;     
+ position: relative;
+ bottom: -50px;
+ right: 5px;
+}
+.copy_right_footer{
+color: #f5f5f5;
+bottom: 0;
+width: 100%;
+margin-top: 133px;
+background-color: #6c757d;
+line-height: 3;
+text-align: center;
+}

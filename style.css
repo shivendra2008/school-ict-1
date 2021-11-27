@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://posterburnersuperrez.blob.core.windows.net/posterburner/rypxbomjq3k357q7etat04Screenshot%202021-11-26%20085254SREZ.png");
+    background-size: cover;
+}
+.container{  
+ text-align: center;     
+ position: relative;
+ bottom: -225px;
+ right: 5px;
+}
